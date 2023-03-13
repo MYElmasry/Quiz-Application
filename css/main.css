@@ -6,9 +6,13 @@ body{
 }
 .quiz-app{
     margin: 20px auto;
-    width: 800px;
     background-color: #f8f8f8;
     padding: 15px;
+}
+@media (max-width:767px) {
+    .quiz-app{
+        margin-top: 0;
+    }
 }
 .quiz-info{
     background-color: #fff;

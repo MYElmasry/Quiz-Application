@@ -101,7 +101,7 @@
         "answer_2": "<h1>",
         "answer_3": "<h6>",
         "answer_4": "heading",
-        "right_answer": "<h6>"
+        "right_answer": "<h1>"
     },
     {
         "title": "What is DOM in HTML?",
